@@ -1,8 +1,9 @@
+{% if page.link != "404" %}
 <ul>
 	<li>
 		<a href="{{ site.baseurl }}/{{ site.harmony.index[page.lang] }}">/Blog</a>
 	</li>
-	{% assign pages=site.pages | where:"lang", page.lang %}
+	{% assign pages=site.pages | where:"lang", page.lang | sort:"link" %}
 	{% for my_page in pages %}
 		{% if my_page.title %}
 			<li>
@@ -11,3 +12,4 @@
 		{% endif %}
 	{% endfor %}
 </ul>
+{% endif %}

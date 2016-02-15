@@ -15,6 +15,9 @@ gems:
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
+  title:
+   en: Thaissa's Log
+   pt: Blog da Thaissa
   name:
    en: Thaissa's Log
    pt: Blog da Thaissa
