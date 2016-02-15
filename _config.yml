@@ -4,10 +4,10 @@
 baseurl: ''
 
 # Site live URL
-url: http://blog.thaissa.eng.br
+# url: http://blog.thaissa.eng.br
 
 # Localhost 
-# url: http://127.0.0.1:4000  
+url: http://127.0.0.1:4000  
 
 gems:
   - jemoji
@@ -15,7 +15,12 @@ gems:
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Thaissa's Log
+  name:
+   en: Thaissa's Log
+   pt: Blog da Thaissa
+  index:
+   en:
+   pt: inicio/
   # Little description about your site
   description:  Written on VIM. Rock you like a hurricane! ;)
   # 'meta_description:' Write an awesome description for your new site here.

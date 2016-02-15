@@ -26,7 +26,13 @@
     <body class="{{ site.harmony.basetheme }}">
         <header class="main-header">
             <div class="wc-container">
-                <h1><a href="{{ site.baseurl }}/">{{ site.harmony.name }}</a></h1>
+		<div class="wc-container" style="text-align: right; line-height: 2em; color: #da4939">
+			{% assign posts=site.posts | where:"link", page.link | sort: 'lang' %}
+			{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+			{% assign pages=site.pages | where:"link", page.link | sort: 'lang' %}
+			{% for page in pages %} <a href="{{ page.url }}" class="{{ post.lang }}">{{ page.lang }}</a> {% endfor %}
+		</div>
+                <h1><a href="{{ site.baseurl }}/{{ site.harmony.index[page.lang] }}">{{ site.harmony.name[page.lang] }}</a></h1>
                 <h2>{{ site.harmony.description }}</h2>
                 {% include header-links.html %}                
             </div>

@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Blog archive
+layout: page
+title: Archive
+permalink: /archive/
+link: archive
+lang: en
 ---
 <div class="page-content wc-container">
-  <h1>Blog Archive</h1>  
-  {% for post in site.posts %}
+  <h1>Blog Archive</h1>
+  {% assign posts=site.posts | where:"lang", page.lang %}   
+  {% for post in posts %}
   	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
     	{% unless forloop.first %}</ul>{% endunless %}

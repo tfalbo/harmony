@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 link: about
-lang: en
+lang: pt
 ---
 
+Olá!!!
 Hi, I am Thaissa Falbo, a Computer Engineering undergrad student at PUC-Rio (Rio de Janeiro, Brazil).
 
 ### Contact me

@@ -1,8 +1,13 @@
 <ul>
 	<li>
-		<a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a><span>/</span>
+		<a href="{{ site.baseurl }}/{{ site.harmony.index[page.lang] }}">/Blog</a>
 	</li>
-	<li>
-		<a href="{{ '/blog' | prepend: site.baseurl | prepend: site.url }}">Blog</a><span>/</span>
-	</li>
+	{% assign pages=site.pages | where:"lang", page.lang %}
+	{% for my_page in pages %}
+		{% if my_page.title %}
+			<li>
+          			<a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a><span>/</span>
+			</li>
+		{% endif %}
+	{% endfor %}
 </ul>
