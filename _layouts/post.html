@@ -22,6 +22,7 @@ layout: default
 	</div>
 
 
+	{% include comments.html %}
 	{% if site.related_posts %}
 	<div class="related">
 		<h4>Related Posts</h2>
@@ -35,7 +36,6 @@ layout: default
 		</ul>
 	</div>
 	{% endif %}
-
 	<div class="post-footer">
 		<div class="column-1">
 			{% if page.previous %}
