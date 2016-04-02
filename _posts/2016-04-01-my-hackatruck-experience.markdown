@@ -16,7 +16,7 @@ During my last Summer vacation, I had the chance of participating of the Hackatr
 
 ![Class](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/turma3.jpg)
 
-The students were divided in groups and each group had to develop a prototype of an app. The theme of my group was education, so we created an app to help people on finding tutors. Our intructors helped us a lot, not only with programming but also with developing out idea of the app.
+The students were divided in groups and each group had to develop a prototype of an app. The theme of my group was education, so we created an app to help people on finding tutors. Our intructors helped us a lot, not only with programming but also with developing our idea for the app.
 
 
 ![Graduation](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/euhacka.jpg)
