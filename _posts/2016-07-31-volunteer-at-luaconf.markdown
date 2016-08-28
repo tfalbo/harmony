@@ -18,7 +18,7 @@ The best part of volunteering in events is that anyone can participate by helpin
 ![LuaConf](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/lua-conf-4.jpg)
 
 
-The event was awesome and I could learn a lot about Lua! I couldn't imagine there so many applications for the language. From Game Development with [Charles](http://twitter.com/CharlesMcKeever) e o [Sean]() from Corona to Smart Load Balancing with [Xavier](https://www.twitter.com/xldenis) from Shopify, and also Deep Learning with [Cristina](http://www2.ic.uff.br/~crisnv/) da UFF! And at the end we had a presentation of algorithmic music made in Lua by [Elihú](https://www.twitter.com/mr_auk) ! :O
+The event was awesome and I could learn a lot about Lua! I couldn't imagine there so many applications for the language. From Game Development with [Charles](http://twitter.com/CharlesMcKeever) and [Sean]() from Corona to Smart Load Balancing with [Xavier](https://www.twitter.com/xldenis) from Shopify, and also Deep Learning with [Cristina](http://www2.ic.uff.br/~crisnv/) da UFF! And at the end we had a presentation of algorithmic music made in Lua by [Elihú](https://www.twitter.com/mr_auk) ! :O
 
 
 It was a one day event with around 100 participants, so we could talk a lot during the intervals and - as it was at PUC - we kinda felt "at home". We had speakers from different companies and places in the world who stayed during all the event and this gave us the opportunity to talk and ask questions about theirs talks!
