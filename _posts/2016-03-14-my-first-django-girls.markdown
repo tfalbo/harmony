@@ -8,7 +8,7 @@ comments: true
 lang: en
 ---
 
-![Todos](https://www.dropbox.com/s/zzxw21q9y7zwvhx/25139479433_c89e2601e6_o.jpg?raw=1)
+![Todos](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/django-girls-1.jpg)
 
 
 I would like to say that I am very happy. Last saturday, I was a coach at the [Django Girls - Rio de Janeiro](https://djangogirls.org/riodejaneiro/). It was a very long and tiring day, and I think specially for the participants. For most of them, it was their very first time programming. And also their very first time using the command line!
