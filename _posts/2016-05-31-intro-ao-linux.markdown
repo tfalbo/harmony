@@ -8,7 +8,7 @@ comments: true
 lang: pt
 ---
 
-![Intro-to-Linux](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/intro-to-linux.jpg)
+![Intro-to-Linux](https://photos-2.dropbox.com/t/2/AAD8_TnO3E8NPRhKd-w509uzxpH5PIVHxmqQQlg4cOOs1A/12/11831892/jpeg/32x32/1/_/1/2/intro-to-linux.jpg/EIDe5ggYnesCIAcoBw/IhDf39qq3vxv49HYqKz9bFX2QQq4EMlSW1I2RYcmfJg?size=1280x960&size_mode=3)
 
 Ultimamente, eu tenho participado de vários eventos de tecnologia voltados para meninas. Esses eventos tem me ajudado muito a aprender sobre assuntos novos e conhecer outras meninas da área. Um exemplo é que eu tenho estudado Rails e participado de um grupo de estudo de Rails depois do Rails Girls do ano passado.
 

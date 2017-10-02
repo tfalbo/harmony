@@ -8,7 +8,7 @@ comments: true
 lang: pt
 ---
 
-![Todos](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/django-girls-1.jpg)
+![Todos](https://photos-1.dropbox.com/t/2/AACfJPcO8HMlhQO-UDAncb5KgmcTRT5VDsuKbHV-UVT_nw/12/11831892/jpeg/32x32/1/_/1/2/django-girls-1.jpg/EIDe5ggYnesCIAcoBw/3a_9Fj0HVIiDavYIs5q4gp2idTixOwxDayCVCPS5oLk?size=1280x960&size_mode=3)
 
 
 Eu gostaria de dizer que estou muito feliz! No último sábado eu participei como coach do [Django Girls - Rio de Janeiro](https://djangogirls.org/riodejaneiro/). Foi um dia longo e cansativo, e imagino que o tenha sido também para as participantes. Para muitas, era a primeira vez programando. E também a primeira vez usando a linha de comando!

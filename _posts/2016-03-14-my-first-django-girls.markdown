@@ -8,7 +8,7 @@ comments: true
 lang: en
 ---
 
-![Todos](https://dl.dropboxusercontent.com/u/11831892/BlogStuff/django-girls-1.jpg)
+![Todos](https://photos-1.dropbox.com/t/2/AACfJPcO8HMlhQO-UDAncb5KgmcTRT5VDsuKbHV-UVT_nw/12/11831892/jpeg/32x32/1/_/1/2/django-girls-1.jpg/EIDe5ggYnesCIAcoBw/3a_9Fj0HVIiDavYIs5q4gp2idTixOwxDayCVCPS5oLk?size=1280x960&size_mode=3)
 
 
 I would like to say that I am very happy. Last saturday, I was a coach at the [Django Girls - Rio de Janeiro](https://djangogirls.org/riodejaneiro/). It was a very long and tiring day, and I think specially for the participants. For most of them, it was their very first time programming. And also their very first time using the command line!
