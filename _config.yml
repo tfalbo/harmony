@@ -1,13 +1,13 @@
-# Harmony Jekyll theme general configurations 
+# Harmony Jekyll theme general configurations
 
 # Base URL
 baseurl: ''
 
 # Site live URL
-url: http://blog.thaissa.eng.br
+url: http://blog.thaissa.me
 
-# Localhost 
-# url: http://127.0.0.1:4000  
+# Localhost
+# url: http://127.0.0.1:4000
 
 gems:
   - jemoji
@@ -27,41 +27,41 @@ harmony:
   # Little description about your site
   # description:  Written on VIM. Rock you like a hurricane! ;)
   # 'meta_description:' Write an awesome description for your new site here.
-  # It will appear in your document head meta (for Google search results) and 
+  # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
-  meta_description: > # 
+  meta_description: > #
    Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
+   and Maheshika Lakmali. Sourced on Github -
    https://github.com/gayanvirajith/harmony
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Thaissa Falbo
-    email: 
+    email:
     url: http://www.thaissa.eng.br
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
-  social: 
+  social:
     github: tfalbo
     twitter: t_falbolous
     facebook: thaissa
     gplus: +ThaissaFalbo
-    dribble: 
-    pinterest: 
+    dribble:
+    pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: true
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: rouge 
+highlighter: rouge
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
@@ -74,4 +74,3 @@ exclude:
 sass:
     sass_dir: assets/css/_sass
     style: :compressed
-
